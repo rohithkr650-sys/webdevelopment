@@ -1,0 +1,14 @@
+.external{
+  background-color:blue;
+  width:80%;
+  padding:15px;
+  margin:30px auto;
+ }
+ 
+ .external h1{
+  color:yellow;
+ }
+ 
+ .external p{
+ color:white;
+}
